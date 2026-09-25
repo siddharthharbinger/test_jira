@@ -1,2 +1,8 @@
-# test_jira
-Test repository with intentional ZeroDivisionError bug for Jira agent validation
+# Ratio & Metrics Calculation Service
+
+Simple service for computing financial ratios and metric quotients.
+
+## Running Tests
+```bash
+python repro.py
+```
